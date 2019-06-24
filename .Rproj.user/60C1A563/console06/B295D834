@@ -1,0 +1,5 @@
+]0;/home/wolass/Documents/AdheSaur]0;wolass@wolass-XPS-13-9360: ~/Documents/AdheSaur[01;32mwolass@wolass-XPS-13-9360[00m:[01;34m~/Documents/AdheSaur[00m$ [K]0;wolass@wolass-XPS-13-9360: ~/Documents/AdheSaur[01;32mwolass@wolass-XPS-13-9360[00m:[01;34m~/Documents/AdheSaur[00m$ git status
+fatal: not a git repository (or any of the parent directories): .git
+]0;/home/wolass/Documents/AdheSaur]0;wolass@wolass-XPS-13-9360: ~/Documents/AdheSaur[01;32mwolass@wolass-XPS-13-9360[00m:[01;34m~/Documents/AdheSaur[00m$ git inin[Kt
+Initialized empty Git repository in /home/wolass/Documents/AdheSaur/.git/
+]0;/home/wolass/Documents/AdheSaur]0;wolass@wolass-XPS-13-9360: ~/Documents/AdheSaur[01;32mwolass@wolass-XPS-13-9360[00m:[01;34m~/Documents/AdheSaur[00m$ git add . 

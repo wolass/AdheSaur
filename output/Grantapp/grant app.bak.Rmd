@@ -1,0 +1,66 @@
+---
+title: Microtop: MICRObiota in TOPical Emollients for the treatment of Atopic dermatitis. Randomized, double-blind, placebo controlled clinical trial.
+author: Wojciech Francuzik, MD
+---
+
+# Background
+Atopic dermatitis (AD) is a chronic, pruritic inflammatory cutaneous disease and the incidence of this allergic illness has dramatically increased during the last two decades. It is estimated that 10% to 20% of the children and up to 2-3% of the adults are affected by AD [1,2].
+
+The Human Microbiome study has revealed that imbalance between skin microbiota and skin pathogens might undermine local and systemic regulatory immune responses [5] and that S. aureus overgrowth correlates with neurodermitis flare-ups [6]. Accordingly it has been shown that S. epidermidis (harmless skin commensal) not only inhibits the growth of S. aureus and P. acnes [7], but also modulates local skin immunity [8] via increasing defense against skin infections [9]. Founded on this data we are already working on this topic in our clinical department and the resulting data derived from this ongoing study will be published during the upcoming months.
+
+Previous research studies showed that the local treatment of AD-associated lesions with creams containing probiotic bacteria (alive [10] and lysates [11]) had a beneficial effect for the patients (possibly) by modulating the immune response of the host [12].
+
+We have already identified potential bacterial candidates that may have the highest impact on the composition of the microbiome during the course of AD.
+
+# Hypothesis and Aims
+This project aims to unravel the microbiome in AD patients and to uncover microbial strains derived from healthy skin, which can be used to normalize a disturbed skin microbiome. We speculate that such bacteria can have therapeutic potential. We hypothesize that defined bacterial strains derived from healthy skin can (directly or indirectly) stabilize the skin barrier e.g. by triggering anti-inflammatory processes at the molecular level. By gathering clinical data from AD patients and analyzing their skin microbiome before and after the topical administration of microbial products, we aim to address the highly discussed question whether we are able (and to which extent) to induce changes in the composition of the microbiome of the human skin to restore a healthy state of the skin flora.
+
+The ultimate aim of this study is to establish a new therapeutic approach for mild and moderate AD by using emollients containing microbiota.
+
+Furthermore we aim to verify the possible secondary outcome of reaching an ameliorated life quality status which will be measured by questionnaires.
+
+# Study design and Methods
+Our population of interest are AD patients. Demographically identical healthy volunteers are going to be included in the control group. The production time of bacteria / bacterial-products containing cream will be 2 to 3 months. This will be performed in co-operation with the lab of Prof. Dr. Schumann (Institut für Mikrobiologie und Hygiene). The cream will be based on emollients with the addition of substances that promote the growth of protective microbiota, and/or bacterial products derived from strains isolated from a patient (personalized medicine) that inhibit the growth of pathogenic bacteria.
+
+The enrolment period for 60 probands which will be randomized in 3 groups (patients treated with verum or placebo and a control group) will last for 6 subsequent months. According to the power calculation we determined that 20 patients per group would be sufficient to illustrate significant differences in selected variables of interest. We adjusted the group sample sizes to account for inequality using following formula: (N(1 + k)2 ) / 4k. To further differentiate between the status of disease in different probands, they will undergo a targeted genome analysis using genetic markers (TLR and filaggrin gene null mutations) designed to predict course of the disease and the impairment of the skin’s barrier function.
+
+All the probands will be assigned to use the respective cream twice per day (whole body surface) during a period of 2.5 months. At three timepoints during the trial we will collect the samples (skin microbiome swabs, blood and biopsies) that will be analysed by advanced methods e.g. sequencing, ELISAs and immunohistological procedures at the end of trial. The primary goal of this trial is the verification of the treatment potential of emollients containing bacteria in patients with mild and moderate AD (primary outcome: significant SCORAD, TEWL, and microbiome composition differences in treated and placebo groups [13,14,15,16]).
+
+# Implementation into existing research structures
+Based on above mentioned findings and given our considerable experience regarding observational and interventional studies as well as encouraged by the fact that we have access to a great number of AD patients we designed the study to be a randomized, double-blinded, placebo-controlled, monocentric investigator initiated clinical trial. The trial will be conducted at the Clinic for Dermatology, Venereology and Allergology, AG Prof. M. Worm. The clinic will contribute to the personnel costs e.g. a study nurse, great part of the research personnel and will provide part of the consumables for clinical data acquisition (i. e. for blood and skin sampling as well as skin parameters measuring equipment i. e. TEWL, pH, corneometer by Courage & Kazaka).
+
+On top of that we are confident that we will be able to reduce the cost of this study by utilizing skills that already lie in our expertize and are crucial for completing this trial: Bioinformatic data analysis, qPCR quantification of selected skin microbiota, and electronic data capture software administration are free in this trial due to the above fact.
+
+# Refrences:
+Asher, M. I., Montefort, S., Björkstén, B., Lai, C. K. W., Strachan, D. P., Weiland, S. K., & Williams, H. (2006). Worldwide time trends in the prevalence of symptoms of asthma, allergic rhinoconjunctivitis, and eczema in childhood: ISAAC Phases One and Three repeat multicountry cross-sectional surveys. Lancet (London, England), 368(9537), 733–43.
+J. Schmitt, A. Bauer, M. Meurer; Atopic eczema in adulthood. Hautarzt, 59 (10) (2008), pp. 841–850 quiz 851
+Paller, A. S., McAlister, R. O., Doyle, J. J., & Jackson, A. (2002). Perceptions of physicians and pediatric patients about atopic dermatitis, its impact, and its treatment. Clinical Pediatrics, 41(5), 323–32.
+Kini, S. P., DeLong, L. K., Veledar, E., McKenzie-Brown, A. M., Schaufele, M., & Chen, S. C. (2011). The impact of pruritus on quality of life: the skin equivalent of pain. Archives of Dermatology, 147(10), 1153–6. doi:10.1001/archdermatol.2011.178
+Naik, S., Bouladoux, N., Linehan, J. L., Han, S.-J., Harrison, O. J., Wilhelm, C.,… Belkaid, Y. (2015). Unique protective skin immune signature. Nature. http://doi.org/10.1038/nature14052
+Cole, C., Kroboth, K., Schurch, N. J., Sandilands, A., Sherstnev, A., O’Regan, G. M., … Brown, S. J. (2014). Filaggrin-stratified transcriptomic analysis of pediatric skin identifies mechanistic pathways in patients with atopic dermatitis. Journal of Allergy and Clinical Immunology, 134(1), 82–91.
+Wang, Y., Kuo, S., Shu, M., Yu, J., Huang, S., Dai, A., … Huang, C.-M. (2014). Staphylococcus epidermidis in the human skin microbiome mediates fermentation to inhibit the growth of Propionibacterium acnes: implications of probiotics in acne vulgaris. Applied Microbiology and Biotechnology. http://doi.org/10.1007/s00253-013-5394-8
+Lai, Y., Cogen, A. L., Radek, K. A., Park, H. J., Macleod, D. T., Leichtle, A., … Gallo, R. L. (2010). Activation of TLR2 by a small molecule produced by Staphylococcus epidermidis increases antimicrobial defense against bacterial skin infections. The Journal of Investigative Dermatology, 130(9), 2211–2221.
+Cogen, A. L., Yamasaki, K., Sanchez, K. M., Dorschner, R. A., Lai, Y., MacLeod, D. T., … Gallo, R. L. (2010). Selective antimicrobial action is provided by phenol-soluble modulins derived from Staphylococcus epidermidis, a normal resident of the skin. The Journal of Investigative Dermatology, 130(1), 192–200.
+Park, S. B., Im, M., Lee, Y., Lee, J. H., Lim, J., Park, Y.-H., & Seo, Y. J. (2014). Effect of Emollients Containing Vegetable-Derived Lactobacillus in the Treatment of Atopic Dermatitis Symptoms: Split-Body Clinical Trial. Annals of Dermatology, 26(2), 150.
+Gueniche, A., Knaudt, B., Schuck, E., Volz, T., Bastien, P., Martin, R., … Biedermann, T. (2008). Effects of nonpathogenic gram-negative bacterium Vitreoscilla filiformis lysate on atopic dermatitis: A prospective, randomized, double-blind, placebo-controlled clinical study. British Journal of Dermatology, 159(6), 1357–1363. http://doi.org/10.1111/j.1365-2133.2008.08836.x
+Volz, T., Skabytska, Y., Guenova, E., Chen, K.-M., Frick, J.-S., Kirschning, C. J., … Biedermann, T. (2014). Nonpathogenic bacteria alleviating atopic dermatitis inflammation induce IL-10-producing dendritic cells and regulatory Tr1 cells. The Journal of Investigative Dermatology, 134(1), 96–104. http://doi.org/10.1038/jid.2013.29
+Rebane, A., & Akdis, C. A. (2013). MicroRNAs: Essential players in the regulation of inflammation. The Journal of Allergy and Clinical Immunology, 132(1), 15–26.
+Lu, T. X., & Rothenberg, M. E. (2013). Diagnostic, functional, and therapeutic roles of microRNA in allergic diseases. The Journal of Allergy and Clinical Immunology, 132(1), 3–13; quiz 14.
+Rebane, A., Runnel, T., Aab, A., Maslovskaja, J., R, B., Zimmermann, M., … Akdis, C. A. (2014). MicroRNA-146a alleviates chronic skin inflammation in atopic dermatitis through suppression of innate immune responses in keratinocytes. Journal of Allergy and Clinical Immunology. doi:10.1016/j.jaci.2014.05.022
+Van Rooij, E. (2011). The art of microRNA research. Circulation Research, 108(2), 219–34.
+Quinn EM, Wang JH, O'Callaghan G, Redmond HP. (2013) MicroRNA-146a is upregulated by and negatively regulates TLR2 signaling.PLoS One. 2013 Apr 29;8(4):e62232.
+Benakanakere, M. R., Li, Q., Eskan, M. A., Singh, A. V., Zhao, J., Galicia, J. C., … Kinane, D. F. (2009). Modulation of TLR2 protein expression by miR-105 in human oral keratinocytes. Journal of Biological Chemistry, 284(34), 23107–23115.
+Selbach, M., Schwanhäusser, B., Thierfelder, N. , Fang, Z., Khanin, R., Rajewsky, N. (2008). Widespread changes in protein synthesis induced by microRNAs. Nature. 2008 Sep 4;455(7209):58-63
+
+# Budget calculation:
+
+| Lab consumables                          | used during sample preparation, handling and storage                                                | 1.000 €  |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------|----------|
+| qPCR materials                           | for the quantification of bacteria                                                                  | 3.460 €  |
+| DNA extraction kits                      | Kits are needed for the patient DNA samples and bacterial DNA extraction.                           | 825 €    |
+| Skin sampling kits                       | Swabs, containers, storage preparation                                                              | 200 €    |
+| DNA SNP analysis                         |                                                                                                     | 1.500 €  |
+| Emolient cream preparation               | Ordering the ingredients and formulating a recipe with microbiota-derived products for 60 patients. | 5.000 €  |
+| Biostatistics and data analysis          |                                                                                                     | 0 €      |
+| Clinical Trial EDC System administration | Monitoring and support of the trial (e.g. RedCap)                                                   | 0 €      |
+| Total costs                              |                                                                                                     | 11.985 € |

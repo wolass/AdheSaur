@@ -1,0 +1,84 @@
+---
+title: "Mechanisms of bacterial colonization patterns in atopic skin"
+author: "Wojciech Francuzik, MD"
+cls: bmcart.cls
+output: word_document
+bibliography: refs.bib
+---
+
+```{r echo=FALSE,message=FALSE,warning=FALSE}
+require(pandoc)
+require(knitr)
+```
+
+# Background
+
+Atopic dermatitis (AD) is a chronic, pruritic inflammatory cutaneous disease and the incidence of this allergic illness has dramatically increased during the last two decades. It is estimated that 10% to 20% of the children and up to 2-3% of the adults are affected by AD [@Asher2006].
+
+The Human Microbiome study has revealed that imbalance between skin microbiota and skin pathogens might undermine local and systemic regulatory immune responses [@Naik2015] and that _S. aureus_ overgrowth correlates with neurodermitis flares [@Cole2014]. Accordingly, it has been shown that _S. epidermidis_ (harmless skin commensal) not only inhibits the growth of _S. aureus_ and _P. acnes_ [@Wang2013], but also modulates local skin immunity [@Lai2010] via increasing defense against skin infections [@Cogen2010]. Founded on this data we are currently evaluating microbiome differences in AD patients in our clinical department and the resulting data derived from this ongoing study will be published during the upcoming months. We have identified potential bacterial candidates that may have the highest impact on the composition of the microbiome during the course of AD.
+
+However, little is known about the colonization patterns of skin microbes in the lesional skin of atopic dermatitis patients, and in particular why _S. aureus_ abundance correlates with the flares.
+
+The skin barrier is mechanically destroyed by scratching and extracellular matrix molecules (e.g. fibronectin, fibrinogen or collagen) which act as binding partners for the microbial surface components recognizing adhesive matrix molecules (MSCRAMMs) of _S.aureus_ are enriched at the lesional skin sites [@Cho2001; @NOVAK2003]. As a result despite the antimicrobial activity mediated by the immune system, _S. aureus_ might be more prone to adhere to lesional skin sites of AD patients than other bacteria.
+
+Diminished antimicrobial peptides (AMPs) production by keratinocytes in AD skin may contribute to the increased adherence of _S. aureus_ [@Harder2010].
+
+Increase in the observed pH skin levels in AD patients [@Knor2010] diminish the efficacy of AMPs [@Ong2002] and therefore contribute to increased bacterial colonization. If this mechanism promotes the colonization with _S. aureus_ more than the other skin commensals remains to be investigated.
+
+It is speculated that the increased expression of extracellular matrix proteins and their distribution within skin layers is influenced by the Th2 cytokine milieu [@Cho2001].  
+
+
+
+# Hypothesis and aims
+We hypothesize that human skin exposed to a Th2 cytokine milieu expresses MSCRAMMs ligands and in effect promotes the colonization and superficial infections with _S. aureus_. This may contribute to the  observed microbiome composition in AD patients and why _S. aureus_ dominates the lesions of AD patients.
+
+The primary aim of this study is to prove that atopic cytokine milieu stimulates the formation of MSCRAMMs ligands, therefore promoting the adhesion of _S. aureus_.
+
+This data will build the basis for the development of topical preparations containing MSCRAMMs ligands.
+
+# Working program
+
+The experiments in the course of this trial will answer the following research questions:
+
+1. What is the expression pattern of fibronectin during the course of AD (considering the acute and chronic phase)?
+2. Which mechanisms (e.g. which cytokines) affect the expression of fibronectin in the skin?
+3. Does increased fibronectin expression promote _S. aureus_ colonization?
+4. Which other compounds may be plausible _S. aureus_ MSCRAMMs ligands in AD?
+
+## Ad 1.
+Using the skin biopsies from AD patients and healthy controls we will determine and compare the distribution patterns of fibronectin using immunohistochemistry (for the protein quantification) and qPCR (for the mRNA quantification).
+
+## Ad 2.
+Using either ex vivo skin or skin equivalents in cultures we will investigate which cytokines stimulate the expression of fibronectin using the above-mentioned methods.
+
+## Ad 3.
+Using fibronectin cell adhesion assay we will determine the adhesion of various bacteria to fibronectin. This will help to investigate which of skin commensals are predisposed to colonize skin during an increased fibronectin expression. This step will be repeated for other discovered MSCRAMMs ligands.
+
+Afterward, using skin equivalents or ex vivo skin we will recreate the conditions resembling healthy human skin surface and subsequently introduce the cytokine milieu similar to AD (Th2 type of response). The observed changes in potential ligands for MSCRAMMs will lead to the subsequent phase - evaluation if _S. aureus_ introduced in these cultures will show an increased adherence to the treated skin.
+
+## Ad 4.  
+To identify further potential MSCRAMMs ligands we will perform in silico experiments based on the literature search. After identification of plausible candidates, we will perform binding assays to prove their interaction. We will repeat steps 1-3 to verify their clinical significance.
+
+The results of these experiments will subsequently be used in further studies to evaluate the changes in the composition of the skin microbiome after challenge with topical application of MSCRAMMs ligands by performing our already established protocol for the quantification of selected bacterial species in skin samples (qPCR).
+
+
+# Implementation of existing research structures
+
+The study will be conducted in the AG Prof. M. Worm. The clinical unit will contribute to the personnel costs e.g. a study nurse, great part of the research personnel and will provide part of the consumables for clinical data acquisition (i. e. for blood and skin sampling as well as skin parameters measuring equipment i. e. TEWL, pH, corneometer by Courage & Kazaka).
+
+On top of that we are confident that we will be able to reduce the cost of this study by utilizing skills that already lie in our expertise and are crucial for completing this trial: Bioinformatic data analysis, qPCR quantification of selected skin microbiota, and electronic data capture software administration are free in this trial due to the above fact.
+
+# Budget calculation:
+| Expense | Description | Amount |
+|--------------------------------------------    |-----------------------------------------------------------------------------------------------------    |----------    |
+| Commercially available cell adhesion assay    | Fibronectin binding assays     | 3.500     |
+| Skin equivalents supplies     |      | 2.500     |
+| Lab consumables     | used during sample preparation, handling and storage     | 1.000     |
+| qPCR materials     | for the quantification of bacteria     | 2.000     |
+| RNA extraction kits     | Kits are needed for the skin transcription analysis    | 2000     |
+| Skin biopsy materials     | Excision materials, containers, storage preparation     | 500     |
+| Biostatistics and data analysis     |      | 0     |
+| Clinical Trial EDC System administration     | Monitoring and support of the trial (e.g. RedCap)     | 0     |
+| Total costs     |      | 11.500    |
+
+# References
